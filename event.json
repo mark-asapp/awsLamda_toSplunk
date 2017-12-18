@@ -1,0 +1,51 @@
+{
+    "alerts": [{
+        "title": "Root activity: /usr/bin/dirname executed  by root",
+        "created_at": 1512576761417,
+        "severity": 2,
+        "organization_id": "58b5d06bd531546a16d83d29",
+        "server_or_region": "ip-172-31-26-113",
+        "source": "Host",
+        "id": "491a4393-daa0-11e7-9b7b-031f88193b03"
+    }, {
+        "title": "Root activity: /usr/bin/dircolors executed  by root",
+        "created_at": 1512576761417,
+        "severity": 2,
+        "organization_id": "58b5d06bd531546a16d83d29",
+        "server_or_region": "ip-172-31-26-113",
+        "source": "Host",
+        "id": "491a4392-daa0-11e7-9b7b-031f88193b03"
+    }, {
+        "title": "Root activity: /usr/sbin/useradd executed  by root",
+        "created_at": 1512576753675,
+        "severity": 2,
+        "organization_id": "58b5d06bd531546a16d83d29",
+        "server_or_region": "ip-172-31-26-113",
+        "source": "Host",
+        "id": "447cedb0-daa0-11e7-84d8-3bc04340b4e1"
+    }, {
+        "title": "Root activity: /bin/su executed  by root",
+        "created_at": 1512576761417,
+        "severity": 2,
+        "organization_id": "58b5d06bd531546a16d83d29",
+        "server_or_region": "ip-172-31-26-113",
+        "source": "Host",
+        "id": "491a4391-daa0-11e7-9b7b-031f88193b03"
+    }, {
+        "title": "Root activity: /usr/bin/groups executed  by root",
+        "created_at": 1512576761417,
+        "severity": 2,
+        "organization_id": "58b5d06bd531546a16d83d29",
+        "server_or_region": "ip-172-31-26-113",
+        "source": "Host",
+        "id": "491a4390-daa0-11e7-9b7b-031f88193b03"
+    }, {
+        "title": "Root activity: /usr/bin/sudo executed  by root",
+        "created_at": 1512576753674,
+        "severity": 2,
+        "organization_id": "58b5d06bd531546a16d83d29",
+        "server_or_region": "ip-172-31-26-113",
+        "source": "Host",
+        "id": "447cc6a0-daa0-11e7-84d8-3bc04340b4e1"
+    }]
+}
