@@ -5,7 +5,7 @@ import os
 
 def post_to_splunk(payload):
 
-	token = "Splunk " + os.environ['http_token']
+	token = "Splunk " + os.environ['HTTP_TOKEN']
 	#url = "http://localhost:8088/services/collector"
 	url = os.environ['URL']
 	headers = {'Authorization': token }
