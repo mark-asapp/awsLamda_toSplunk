@@ -8,5 +8,5 @@ The event.json is a sample json output from Threatstack webhook and can be used 
 
 To setup 
 1. deploy the lambda code to your aws instance
-2. Enter in the environment variables URL and http_token for your splunk instance
+2. Enter in the environment variables URL and HTTP_TOKEN for your splunk instance
 3. In Threatstack webhook integration enter the URL of the lamda function
